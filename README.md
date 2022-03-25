@@ -12,4 +12,4 @@ HellsingWoW © 2021, es un proyecto privado basado en Cmangos. Estamos constante
 * Imagen para detallar aun mas.
 * Video para detallar aun mas un correcto funcionamiento o una posible falla
 * Links de wowhead u otra web tipo wiki de como tendría que funcionar lo reportado.
-*                             [WoWHead](https://es.tbc.wowhead.com/)
+* [WoWHead](https://es.tbc.wowhead.com/)
