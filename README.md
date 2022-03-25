@@ -1,9 +1,9 @@
 ## BUGTRACKER HELLSING-WOW
-##Introducción
+## Introducción
 HellsingWoW © 2021, es un proyecto privado basado en Cmangos. Estamos constantemente actualizando y mejorando nuestro proyecto.
-##Developers
+## Developers
 * [Christian](https://github.com/avirax1994)
-##Como reportar correctamente 
+## Como reportar correctamente 
 🔴[Reportar ahora](https://github.com/avirax94/Hellsing-WoW/issues)🔴
 *Titulo corto y concreto
 *Nombre del PJ
